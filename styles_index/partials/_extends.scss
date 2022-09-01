@@ -1,0 +1,19 @@
+  
+  %tamaño_imagen{
+    width: 400px;
+    height: 400px; 
+  }
+
+  %texto_botón{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  %texto_botón_hover{
+    transition: all 0.5s ease;
+    font-size: 20px;
+    color: black;
+  }

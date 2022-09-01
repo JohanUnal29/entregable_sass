@@ -1,0 +1,11 @@
+.tamaño_imagenes{
+    @extend %tamaño_imagen;
+  }
+
+  .texto_botón{
+    @extend %texto_botón;
+  }
+
+  .texto_botón:hover{
+    @extend %texto_botón_hover;
+  }
